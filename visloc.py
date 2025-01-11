@@ -3,7 +3,7 @@
 # Licensed under CC BY-NC-SA 4.0 (non-commercial use only).
 #
 # --------------------------------------------------------
-# Simple visloc script
+# Simple visloc script``
 # --------------------------------------------------------
 import numpy as np
 import random
