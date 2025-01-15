@@ -1,6 +1,17 @@
 data/
 checkpoints/
 
+#added by ztx
+*.png
+*.depth
+*.zip
+*.txt
+*.pfm
+*.reg
+*.db
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
